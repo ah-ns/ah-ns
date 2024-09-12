@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ah-ns
-- 👀 I’m interested in learning anything.
-- 🌱 I’m currently learning about explainable Machine Learning, and the Rust programming language.
+- 👀 I’m interested in learning reverse engineering.
+- 🌱 I’m currently learning about the C programming language.
 - 💞️ I’m looking to collaborate on any kind of security related project, or bug bounties.
 - 📫 How to reach me: snah._. on Discord
 - ⚡ Fun fact: I like pears.
